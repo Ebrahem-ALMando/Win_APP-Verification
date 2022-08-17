@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "مشروع 2 ج 4", "مشروع 2 ج 4\مشروع 2 ج 4.csproj", "{8130054C-77F6-44D4-BE3F-60A990E4E774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8130054C-77F6-44D4-BE3F-60A990E4E774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8130054C-77F6-44D4-BE3F-60A990E4E774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8130054C-77F6-44D4-BE3F-60A990E4E774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8130054C-77F6-44D4-BE3F-60A990E4E774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
