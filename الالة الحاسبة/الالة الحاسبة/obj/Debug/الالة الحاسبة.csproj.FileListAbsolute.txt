@@ -1,0 +1,34 @@
+C:\Users\EBRAHEM_PC\OneDrive\سطح المكتب\الالة الحاسبة\الالة الحاسبة\bin\Debug\الالة الحاسبة.exe.config
+C:\Users\EBRAHEM_PC\OneDrive\سطح المكتب\الالة الحاسبة\الالة الحاسبة\bin\Debug\الالة الحاسبة.exe
+C:\Users\EBRAHEM_PC\OneDrive\سطح المكتب\الالة الحاسبة\الالة الحاسبة\bin\Debug\الالة الحاسبة.pdb
+C:\Users\EBRAHEM_PC\OneDrive\سطح المكتب\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة الحاسبة.csprojResolveAssemblyReference.cache
+C:\Users\EBRAHEM_PC\OneDrive\سطح المكتب\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة_الحاسبة.Form1.resources
+C:\Users\EBRAHEM_PC\OneDrive\سطح المكتب\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة_الحاسبة.Properties.Resources.resources
+C:\Users\EBRAHEM_PC\OneDrive\سطح المكتب\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة الحاسبة.csproj.GenerateResource.Cache
+C:\Users\EBRAHEM_PC\OneDrive\سطح المكتب\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة الحاسبة.exe
+C:\Users\EBRAHEM_PC\OneDrive\سطح المكتب\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة الحاسبة.pdb
+D:\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\bin\Debug\الالة الحاسبة.exe.config
+D:\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة الحاسبة.exe
+D:\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة الحاسبة.pdb
+D:\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\bin\Debug\الالة الحاسبة.exe
+D:\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\bin\Debug\الالة الحاسبة.pdb
+D:\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة الحاسبة.csprojResolveAssemblyReference.cache
+D:\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة_الحاسبة.Form1.resources
+D:\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة_الحاسبة.Properties.Resources.resources
+D:\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة الحاسبة.csproj.GenerateResource.Cache
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\bin\Debug\الالة الحاسبة.exe.config
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\bin\Debug\الالة الحاسبة.exe
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\bin\Debug\الالة الحاسبة.pdb
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة_الحاسبة.Form1.resources
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة_الحاسبة.Properties.Resources.resources
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة الحاسبة.csproj.GenerateResource.cache
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة الحاسبة.exe
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة الحاسبة.pdb
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\bin\Debug\mscorlib.dll
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\bin\Debug\ar\mscorlib.resources.dll
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\bin\Debug\normidna.nlp
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\bin\Debug\normnfc.nlp
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\bin\Debug\normnfd.nlp
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\bin\Debug\normnfkc.nlp
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\bin\Debug\normnfkd.nlp
+D:\EBRAHEM\المعهد _دراستي\برامج C#\الالة الحاسبة\الالة الحاسبة\obj\Debug\الالة الحاسبة.csprojResolveAssemblyReference.cache
